@@ -113,24 +113,6 @@ python test_flexible_gui.py
 
 ---
 
-## 📝 Example Configurations
-
-### Full Microcavity (5 layers)
-1. Layer 1: Ag (30 nm) — Bottom mirror
-2. Layer 2: hBN (314 nm) — Spacer
-3. Layer 3: WS₂ (0.7 nm) — Active material
-4. Layer 4: hBN (314 nm) — Spacer
-5. Layer 5: Ag (30 nm) — Top mirror
-
-### Simple Structure (3 layers)
-1. Layer 1: hBN (100 nm) — Spacer
-2. Layer 2: MoS₂ (1 nm) — Active material
-3. Layer 3: hBN (100 nm) — Spacer
-
-### Single Layer
-1. Layer 1: WS₂ (0.7 nm) — Active material only
-
----
 
 ## 🌟 Key Improvements
 
@@ -161,10 +143,10 @@ This tool is provided for academic and research use. If you use it in your work,
 
 ## 👨‍💻 Author
 
-Developed by Aryan Chand, IISER Mohali.
+Developed by Aryan Chand, Indian Institute of Space Science and Technology, Trivandrum.
 
 ---
 
 ## 💡 Contributing
 
-Contributions, bug reports, and
+
